@@ -1,7 +1,7 @@
 # silversburguer
 Trabalho Acadêmico da matéria Lima realizado em grupo para atribuir nota ao primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai.
 
-**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
+**Site:** [**https://Equipe-777.github.io/silversburguer/silvers\_burguer/**](https://Equipe-777.github.io/silversburguer/silvers_burguer/)
 
 **Atividade Solicitada por: Professor Danilo da Turma 1DM do Senai.**
 
